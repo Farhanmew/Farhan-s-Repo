@@ -1,3 +1,4 @@
 # Farhan-s-Repo
+i am farhan 
 <br>
-he author is farhan mew 
+The author is farhan mew 
